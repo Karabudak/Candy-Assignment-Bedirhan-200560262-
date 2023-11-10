@@ -1,0 +1,122 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+header, nav, section, footer {
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.1);
+    
+}
+
+      
+       .blue-text { color: blue; }
+       .red-text { color: red; }
+       .yellow-text { color: yellow; }
+       .pink-text { color: pink; }
+       .green-text { color: green; }
+       .purple-text { color: purple; }
+       .orange-text { color: orange; }
+       
+    
+       
+       
+
+nav ul {
+    list-style: none;
+    background-color: #0c2e54;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0c2e54;
+
+
+
+
+}
+
+a {
+    text-decoration: none;
+    text-size-adjust: 50px;
+    color: #fefeff;
+}
+
+a:hover {
+    color: #ffffff;
+    background-color: #0c2e54;
+
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0c2e54;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.Candy_Image{
+    width: 300px; /* Set the desired width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    font-size: 40px;
+}
+
+.Candy_Image1 {
+    width: 300px; /* Set the desired width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    font-size: 40px;
+}
+
+
+.candy_pic2 {
+    width: auto; /* Set the desired width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    font-size: auto;
+}
+.candy_pic3{
+    width: 225px; /* Set the desired width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    font-size: 35px;
+}
+.halloween_pic{
+
+ width: 1000px; /* Set the desired width */
+    height: 400px; /* Automatically adjust the height to maintain aspect ratio */
+    font-size: 100px;
+}
+
+
+
+.contact-form {
+    text-align: right;
+}
+.contact-form1 {
+    text-align: right;
+    text-decoration: none;
+
+}
+
+
+
+/* Add more styles and enhancements as needed */
